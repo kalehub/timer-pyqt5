@@ -9,6 +9,7 @@ app = QApplication(sys.argv)
 # if no command line, then replace it by QApplication([])
 
 # making a window 
+
 window = Mainwindow()
 window.show()
 
